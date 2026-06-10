@@ -1,3 +1,7 @@
+<p align="right">
+  English | <a href="./README.zh.md">简体中文</a>
+</p>
+
 # Awesome Nichijou
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
