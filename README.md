@@ -52,6 +52,7 @@ A curated list of useful resources for **Nichijou** (日常, *My Ordinary Life*)
 - [MyAnimeList](https://myanimelist.net/anime/10165/Nichijou) - English anime database entry.
 - [AniDB](https://anidb.net/anime/8155) - Detailed anime metadata.
 - [Anime News Network](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12142) - Encyclopedia entry with staff and production information.
+- [Kaidomi: Nichijou](https://kaidomi.com/en/title/nichijou-my-ordinary-life--anime-10165) - Free title hub connecting the anime and manga, with staff, character, and voice-actor references.
 
 ## Music
 
