@@ -1,13 +1,22 @@
-<p align="right">
+<div align="right">
   <a href="./README.md">English</a> | 简体中文
-</p>
+</div>
+
+<div align="center">
 
 # Awesome Nichijou
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](#参与贡献)
+关于《日常》（Nichijou）的优质资源与项目精选列表（新井圭一原作 · 京都动画制作）。
 
-一个关于《日常》（Nichijou，*My Ordinary Life*）的资源精选列表。原作漫画为 **新井圭一** 创作，动画版由 **京都动画** 制作。
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/chius-me/awesome-nichijou/pulls)
+
+[目录](#目录) · [官方来源](#官方来源) · [参与贡献](#参与贡献)
+
+</div>
+
+---
 
 > “我们所度过的每个平凡的日常，也许就是连续发生的奇迹。”
 
@@ -91,8 +100,10 @@
 
 提交前也可以参考 [awesome list 贡献指南](https://github.com/sindresorhus/awesome/blob/main/contributing.md)。
 
-## 协议
+## 📄 协议
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+本项目采用 [CC0 1.0 Universal](LICENSE) 授权发布。
 
-在法律允许的范围内，贡献者放弃对本作品的所有版权及相关权利。
+<div align="center">
+  <sub>Curated with ❤️ by <a href="https://chius.cc">Chius</a></sub>
+</div>

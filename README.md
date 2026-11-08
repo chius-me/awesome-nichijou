@@ -1,13 +1,22 @@
-<p align="right">
+<div align="right">
   English | <a href="./README.zh.md">简体中文</a>
-</p>
+</div>
+
+<div align="center">
 
 # Awesome Nichijou
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](#contributing)
+A curated list of useful resources for **Nichijou** (日常, *My Ordinary Life*) by Keiichi Arawi & Kyoto Animation.
 
-A curated list of useful resources for **Nichijou** (日常, *My Ordinary Life*), the surreal comedy manga by **Keiichi Arawi** and its Kyoto Animation anime adaptation.
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/chius-me/awesome-nichijou/pulls)
+
+[Contents](#contents) · [Official Sources](#official-sources) · [Contributing](#contributing)
+
+</div>
+
+---
 
 > "The ordinary days we take for granted may be a series of miracles."
 
@@ -91,8 +100,10 @@ Contributions are welcome. Please keep the list easy to verify and maintain:
 
 Before submitting a pull request, check the [awesome list guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md).
 
-## License
+## 📄 License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+This curated list is dedicated to the public domain under [CC0 1.0 Universal](LICENSE).
 
-To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
+<div align="center">
+  <sub>Curated with ❤️ by <a href="https://chius.cc">Chius</a></sub>
+</div>
