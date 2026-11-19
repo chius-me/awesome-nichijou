@@ -58,10 +58,11 @@ A curated list of useful resources for **Nichijou** (日常, *My Ordinary Life*)
 - [Nichijou Wiki](https://nichijou.wiki.gg/) - Community wiki on wiki.gg.
 - [Nichijou Wiki on Fandom](https://nichijou.fandom.com/) - Older fan wiki with historical community content.
 - [Douban](https://movie.douban.com/subject/4848701/) - Chinese media database entry.
+- [Bangumi](https://bgm.tv/subject/9912) - Chinese ACG database entry with episode list, staff, and character credits.
 - [MyAnimeList](https://myanimelist.net/anime/10165/Nichijou) - English anime database entry.
+- [AniList](https://anilist.co/anime/10165/Nichijou/) - English anime database linking related adaptations, characters, and staff.
 - [AniDB](https://anidb.net/anime/8155) - Detailed anime metadata.
 - [Anime News Network](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12142) - Encyclopedia entry with staff and production information.
-- [Kaidomi: Nichijou](https://kaidomi.com/en/title/nichijou-my-ordinary-life--anime-10165) - Free title hub connecting the anime and manga, with staff, character, and voice-actor references.
 
 ## Music
 

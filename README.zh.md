@@ -58,7 +58,9 @@
 - [Nichijou Wiki](https://nichijou.wiki.gg/) - wiki.gg 上的社区 Wiki。
 - [Fandom 版 Nichijou Wiki](https://nichijou.fandom.com/) - 历史较久的粉丝 Wiki。
 - [豆瓣](https://movie.douban.com/subject/4848701/) - 中文影视数据库条目。
+- [Bangumi 番组计划](https://bgm.tv/subject/9912) - 中文 ACG 数据库条目，包含分集、制作人员和角色信息。
 - [MyAnimeList](https://myanimelist.net/anime/10165/Nichijou) - 英文动画数据库条目。
+- [AniList](https://anilist.co/anime/10165/Nichijou/) - 英文动画数据库条目，关联衍生作品、角色与制作人员信息。
 - [AniDB](https://anidb.net/anime/8155) - 详细动画元数据。
 - [Anime News Network](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12142) - 英文动画百科，包含制作人员信息。
 
