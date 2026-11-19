@@ -15,6 +15,7 @@ exclude = [
   "^https://www\\.awn\\.com/",
   "^https://kodansha\\.us/",
   "^https://www\\.crunchyroll\\.com/",
+  "^https://www\\.reddit\\.com/",
 ]
 
 accept = [200, 204, 206, 429]
