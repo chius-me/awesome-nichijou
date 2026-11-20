@@ -131,8 +131,8 @@ Curated resources for **Nichijou** (*My Ordinary Life*) by Keiichi Arawi & Kyoto
 
 ## Related Lists
 
+- [awesome-tamako-market](https://github.com/chius-me/awesome-tamako-market) - Resources for *Tamako Market* & *Tamako Love Story* (2013–2014).
 - [awesome-citytheanimation](https://github.com/chius-me/awesome-citytheanimation) - Resources for *CITY THE ANIMATION* (2025).
-- [awesome-ghibli-images](https://github.com/chius-me/awesome-ghibli-images) - Studio Ghibli official still galleries and dataset.
 
 ---
 
